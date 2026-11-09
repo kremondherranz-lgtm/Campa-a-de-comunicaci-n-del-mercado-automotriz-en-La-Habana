@@ -6,9 +6,11 @@
 
 <br>
 
-<img src="./%C2%BFSab%C3%ADas%20que%20en%20LA%20HABANa%20hay%20mini%20veh%C3%ADculos%20el%C3%A9ctricos%20que%20parecen%20juguetes%20pero%20son%20reales.jpg" alt="Infografía: mini vehículos eléctricos en La Habana" width="360">
+<img src="./Copia%20de%20%C2%BFSab%C3%ADas%20que%20en%20LA%20HABANa%20hay%20mini%20veh%C3%ADculos%20el%C3%A9ctricos%20que%20parecen%20juguetes%20pero%20son%20reales.jpg" alt="Infografía: mini vehículos eléctricos en La Habana (versión vigente)" width="360">
 
 **Parecen juguetes. Son reales. Y ya circulan por La Habana.**
+
+<sub>Versión vigente: revisión del 2026-11-09</sub>
 
 </div>
 
@@ -24,13 +26,24 @@ Una infografía vertical que presenta, de forma directa y visual, el fenómeno d
 
 | Dato | Detalle |
 | :--- | :--- |
-| **Archivo** | `¿Sabías que en LA HABANa hay mini vehículos eléctricos que parecen juguetes pero son reales.jpg` |
+| **Archivo vigente** | `Copia de ¿Sabías que en LA HABANa hay mini vehículos eléctricos que parecen juguetes pero son reales.jpg` |
 | **Formato** | JPEG |
 | **Dimensiones** | 800 × 2000 px |
 | **Orientación** | Vertical |
-| **Peso** | ≈ 369 KB |
-| **Añadida** | 2026-11-08 |
+| **Peso** | ≈ 366 KB |
+| **Exportada** | 2026-11-09 |
 | **Uso** | Redes sociales y divulgación |
+
+### Versiones
+
+| Versión | Archivo | Peso | Fecha |
+| :--- | :--- | :--- | :--- |
+| **Vigente** | `Copia de ¿Sabías que en LA HABANa... .jpg` | ≈ 366 KB | 2026-11-09 |
+| Anterior | `¿Sabías que en LA HABANa... .jpg` | ≈ 369 KB | 2026-11-08 |
+
+La revisión del 2026-11-09 cambia la cabecera y el pie de la pieza; la imagen central se mantiene. Se conservan ambas versiones para trazabilidad.
+
+Preview dedicado de la versión vigente: [`README_copia.md`](./README_copia.md).
 
 ## 🎯 Para qué sirve
 
@@ -57,7 +70,8 @@ La infografía se apoya en los hallazgos del estudio del mercado automotriz en L
 - Mantener la relación de aspecto original para evitar recortes.
 - Acompañarla con un texto breve que invite a leer el artículo completo.
 - Citarla como parte de la campaña de comunicación del estudio.
-- No modificar el nombre del archivo: conserva la capitalización y los acentos originales.
+- Usar la versión vigente (2026-11-09) para publicar y conservar la anterior como histórica.
+- No renombrar los archivos: conservan la capitalización y los acentos originales.
 
 ---
 

@@ -6,6 +6,7 @@ Notas de trabajo sobre las fuentes y el procesamiento de datos.
 
 - `2026-11-05.md` — inventario de fuentes, duplicados detectados, nuevos archivos de datos y estado de los resultados procesados.
 - `2026-11-08.md` — revisión del paquete de campaña: nueva infografía, artículo actualizado, conciliación de nombres de archivo y estado de la encuesta procesada.
+- `2026-11-09.md` — revisión de la infografía: versión exportada de Canva el 2026-11-09, diferencias con la anterior y decisión de conservar ambas.
 
 ## Propósito
 

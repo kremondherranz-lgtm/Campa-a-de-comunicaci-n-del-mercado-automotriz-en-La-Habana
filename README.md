@@ -22,7 +22,7 @@ Cada carpeta tiene su propio `README.md` con el detalle de sus archivos.
 - **Oferta informal:** 100 anuncios de Revolico.
 - **Registros complementarios:** vehículos eléctricos y adquisiciones por particulares y entidades estatales.
 - **Resultados:** `data/processed/INFORME_4_11_2026_con_interpretaciones.docx` y los libros de `data/processed/tablas_gráficas/`.
-- **Comunicación:** `Storytelling/` (guion y artículo) e `infografía/` (pieza gráfica).
+- **Comunicación:** `Storytelling/` (guion y artículo) e `infografía/` (infografía en dos versiones; la vigente es la del 2026-11-09).
 
 ## Estado de los datos
 
@@ -30,4 +30,4 @@ Cada carpeta tiene su propio `README.md` con el detalle de sus archivos.
 - `data/processed/unified_cars.csv` no forma parte de este paquete.
 - Los scripts de procesamiento (`src/transform.py`, `src/clean_survey.py`) están en el repositorio del proyecto, fuera de esta carpeta.
 
-Última revisión de la documentación: 2026-11-08. Ver `data/journals/2026-11-08.md`.
+Última revisión de la documentación: 2026-11-09. Ver `data/journals/2026-11-09.md`.

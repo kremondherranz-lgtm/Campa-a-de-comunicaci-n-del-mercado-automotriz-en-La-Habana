@@ -12,3 +12,7 @@ Material de comunicación y presentación de los resultados del proyecto.
 Ambos materiales se apoyan en los resultados de `data/processed/` y en el análisis por pregunta del repositorio del proyecto (`docs/methodology/ANALISIS_POR_PREGUNTA_Y_RESPUESTAS.md`, fuera de este paquete).
 
 El archivo `~$y demanda de eléctricos en La Habana...docx` es un temporal de Office y no forma parte de los entregables.
+
+## Piezas relacionadas
+
+La infografía que acompaña estos materiales está en [`infografía/`](../infografía/). Su versión vigente es la revisión del 2026-11-09; la del 2026-11-08 se conserva como histórica.
